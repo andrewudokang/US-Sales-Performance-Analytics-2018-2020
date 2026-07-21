@@ -414,7 +414,7 @@ Future enhancements could include:
 
 **Andrew Udokang**
 
-**Data Analyst | Power BI | SQL **
+**Data Analyst | Power BI | SQL**
 
 - **LinkedIn:** https://www.linkedin.com/in/andrewudokang
 - **GitHub:** https://github.com/andrewudokang
