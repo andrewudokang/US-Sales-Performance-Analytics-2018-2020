@@ -328,25 +328,25 @@ This dashboard enables management to:
 
 ## Executive Overview
 
-![Executive Overview](images/overview.png)
+![Executive Overview](Images/overview.png)
 
 ---
 
 ## Operations Analysis
 
-![Operations](images/operations.png)
+![Operations](Images/operations.png)
 
 ---
 
 ## Geography Analysis
 
-![Geography](images/geography.png)
+![Geography](Images/geography.png)
 
 ---
 
 ## Sales Team Analysis
 
-![Sales Team](images/sales-team.png)
+![Sales Team](Images/sales-team.png)
 
 ---
 
